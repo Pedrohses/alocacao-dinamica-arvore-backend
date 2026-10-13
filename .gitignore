@@ -1,0 +1,5 @@
+servidor
+servidor.exe
+*.o
+Makefile.win
+*.layout
